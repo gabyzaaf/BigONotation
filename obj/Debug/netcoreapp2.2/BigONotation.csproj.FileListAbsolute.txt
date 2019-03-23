@@ -1,0 +1,11 @@
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.csprojAssemblyReference.cache
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.csproj.CoreCompileInputs.cache
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.AssemblyInfoInputs.cache
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.AssemblyInfo.cs
+/Users/zaafranigabriel/Projects2/BigONotation/bin/Debug/netcoreapp2.2/BigONotation.deps.json
+/Users/zaafranigabriel/Projects2/BigONotation/bin/Debug/netcoreapp2.2/BigONotation.runtimeconfig.json
+/Users/zaafranigabriel/Projects2/BigONotation/bin/Debug/netcoreapp2.2/BigONotation.runtimeconfig.dev.json
+/Users/zaafranigabriel/Projects2/BigONotation/bin/Debug/netcoreapp2.2/BigONotation.dll
+/Users/zaafranigabriel/Projects2/BigONotation/bin/Debug/netcoreapp2.2/BigONotation.pdb
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.dll
+/Users/zaafranigabriel/Projects2/BigONotation/obj/Debug/netcoreapp2.2/BigONotation.pdb
